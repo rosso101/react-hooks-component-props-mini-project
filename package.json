@@ -4,7 +4,8 @@
   "private": true,
   "jest": {
     "transform": {
-      "^.+\\.js$": "babel-jest"    }
+      "^.+\\.js$": "babel-jest"
+    }
   },
   "dependencies": {
     "react": "^17.0.1",
